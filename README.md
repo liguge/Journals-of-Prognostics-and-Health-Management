@@ -102,3 +102,4 @@
 | **[机械工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JXXB)** | **[航空学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HKXB)** | **[振动.测试与诊断](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCS)** | **[仪器仪表学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=YQXB)** |
 | **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
 
+## 谢谢支持~
