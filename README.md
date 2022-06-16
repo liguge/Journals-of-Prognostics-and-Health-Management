@@ -2,11 +2,11 @@
 
 ### 初衷：
 
-​​​​笔者刚步入这个行业的时，做了很多无用功，研究收效甚微。高质量的期刊论文有助于论文构思，实验设计和写作规范等。为让大家更能够更早地阅读高质量论文，早日入门，所以做了这个英文期刊的推荐列表，主要目的有两个：一是帮助大家快速找到符合自己研究兴趣的高质量论文，把握行业的研究方向和整体趋势。二是方便大家对自己论文的内容和质量迅速定位，选择合适的期刊投稿，提高投稿成功率。
+​​​​笔者刚步入这个行业的时，做了很多无用功，研究收效甚微。高质量的论文有助于论文构思，实验设计和写作规范等。为让大家更能够更早地阅读高质量论文，早日入门，所以做了这个英文期刊的推荐列表，主要目的有两个：一是帮助大家快速找到符合自己研究兴趣的高质量论文，把握行业的研究方向和整体趋势。二是方便大家对自己论文的内容和质量迅速定位，选择合适的期刊投稿，提高投稿成功率。
 
 ### 说明：
 
-- 不同学院对于期刊论文的评定标准不一样。计算机类，软件类学科较为认可[CCF等级认定的期刊和会议](https://www.ccf.org.cn/Academic_Evaluation/By_category/)或[清华大学计算机学科分级目录](https://www.aminer.cn/ranks/conf?category=All&category_en=&category_type=thu)；其他学院基本认可中科院分区([从2022年开始，分区表将只发布升级版结果，不再有基础版和升级版之分](https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&mid=2659567988&idx=1&sn=a8567d81484302f9293776cbc6572e9b&chksm=f2ab50a1c5dcd9b7c27d833c54cb00fb7aaf2fbf31bc54390be4c525a800df37f9a8faf383b9&scene=21#wechat_redirect))或者学校（院）自行划定的期刊目录；当然，现在也在逐步推广学校（院）对于各学会[《高质量科技期刊分级目录》](https://cast.org.cn/art/2021/11/4/art_458_172461.html)的认可度；有的学校（院）对于IEEE trans的认可度则非常高。
+- 不同学院对于论文的评定标准不一样。计算机类，软件类学科较为认可[CCF等级认定的期刊和会议](https://www.ccf.org.cn/Academic_Evaluation/By_category/)或[清华大学计算机学科分级目录](https://www.aminer.cn/ranks/conf?category=All&category_en=&category_type=thu)；其他学院基本认可中科院分区([从2022年开始，分区表将只发布升级版结果，不再有基础版和升级版之分](https://mp.weixin.qq.com/s?__biz=MzI1MzA2MzM1NA==&mid=2659567988&idx=1&sn=a8567d81484302f9293776cbc6572e9b&chksm=f2ab50a1c5dcd9b7c27d833c54cb00fb7aaf2fbf31bc54390be4c525a800df37f9a8faf383b9&scene=21#wechat_redirect))或者学校（院）自行划定的期刊目录；当然，现在也在逐步推广学校（院）对于各学会[《高质量科技期刊分级目录》](https://cast.org.cn/art/2021/11/4/art_458_172461.html)的认可度；有的学校（院）对于IEEE trans的认可度则非常高。
 
 - 推荐期刊仅仅是笔者在阅读论文过程中的总结，可能不全，欢迎大家提issue补充。
 
