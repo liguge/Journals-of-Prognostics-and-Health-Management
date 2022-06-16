@@ -18,7 +18,7 @@
 
 ### 英文期刊推荐：
 
-|                           期刊名称                           |  影响因子  | 中科院分区 |              CCF等级              |                          T分区等级                           | 强制OA  |                             评价                             |
+|                           期刊名称                           |  影响因子  | 中科院分区 |              CCF等级              |                          T分区                           | 强制OA  |                             评价                             |
 | :----------------------------------------------------------: | :--------: | :--------: | :-------------------------------: | :----------------------------------------------------------: | :-----: | :----------------------------------------------------------: |
 | **[Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)** | **6.823**  |   **1**    |    | **兵工学会(T1);振动工程学会(T1);铁道学会(T2);自动化学会(T2)** | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=j0VRR7)** |
 | **[ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions)** | **5.468**  | **2(TOP)** |    |                    **仪器仪表学会(推荐)**                    | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=N4bbQg)** |
