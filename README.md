@@ -14,7 +14,7 @@
 
 - ablesci中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 
-- <font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`,`Watch`,`star`！**</font>
+- <font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`,`Watch`,`star`！**</font>❤❤❤
 
 ### 英文期刊推荐：
 
