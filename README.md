@@ -112,4 +112,4 @@
 | **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
 ## 写作思路
 ![image](https://user-images.githubusercontent.com/19371493/174083357-625ce36e-fa5e-4598-84ae-bad2e3ff9acf.png)
-## 谢谢支持！
+## 谢谢支持~
