@@ -104,6 +104,3 @@
 | **[ 计算机集成制造系统](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JSJJ)** | **[航空动力学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=HKDI)** | **[中国电机工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=ZGDC)** | **[振动工程学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDGC)** |
 | **[机械工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JXXB)** | **[航空学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HKXB)** | **[振动.测试与诊断](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCS)** | **[仪器仪表学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=YQXB)** |
 | **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
-## 写作思路
-![image](https://user-images.githubusercontent.com/19371493/174083357-625ce36e-fa5e-4598-84ae-bad2e3ff9acf.png)
-## 谢谢支持！
