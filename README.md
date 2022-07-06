@@ -94,6 +94,7 @@
 | **[The International Journal of Advanced Manufacturing Technology](https://www.springer.com/journal/170/)**| **3.563** | **3** |                                   | **兵工学会(T3);自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLR4r)** |
 | **[Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)** | **4.152** | **3** |                                   |                                                              | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52AAYp)** |
 | **[Advances in Mechanical Engineering](https://journals.sagepub.com/home/ade)** | **1.566** | **4** |                                   |                                                              | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=r0xmqr)** |
+| **[IET Control Theory and Applications](https://digital-library.theiet.org/content/journals/iet-cta)** | **2.670** | **3** |                                   | **自动化学会(T2)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pe9G6p)** |
 
 ## 部分中文EI期刊推荐：
 
