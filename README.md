@@ -1,4 +1,4 @@
-# 智能故障诊断期刊推荐：
+# 智能故障诊断期刊：
 ## Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新：
 2022.06.28：
