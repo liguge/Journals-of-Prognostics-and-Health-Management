@@ -97,6 +97,7 @@
 | **[IET Control Theory and Applications](https://digital-library.theiet.org/content/journals/iet-cta)** | **2.670** | **3** |                                   | **自动化学会(T2)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pe9G6p)** |
 | **[Nuclear Engineering and Design](https://www.sciencedirect.com/journal/nuclear-engineering-and-design)** | **1.900** | **3** |                                   | **核学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZV3OD)** |
 | **[Journal of Vibration Engineering & Technologies](https://link.springer.com/journal/42417)** | **2.333** | **4** |                                   | **振动工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52zay5)** |
+| **[Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)** | **8.907** | **3** |                                   | **硅酸盐学会)(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6QW5)** |
 
 ## 部分中文EI期刊推荐：
 
