@@ -98,6 +98,7 @@
 | **[Nuclear Engineering and Design](https://www.sciencedirect.com/journal/nuclear-engineering-and-design)** | **1.900** | **3** |                                   | **核学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZV3OD)** |
 | **[Journal of Vibration Engineering & Technologies](https://link.springer.com/journal/42417)** | **2.333** | **4** |                                   | **振动工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52zay5)** |
 | **[Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)** | **8.907** | **3** |                                   | **硅酸盐学会)(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6QW5)** |
+| **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** | **4.397** | **2(TOP)** |                                   | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=b5JZP5)** |
 
 ## 部分中文EI期刊：
 
