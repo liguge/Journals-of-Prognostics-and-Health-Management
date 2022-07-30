@@ -24,7 +24,7 @@
 
 - ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`,`Watch`,`star`！**</font>❤❤❤
 
-## 英文期刊推荐：
+## 英文期刊：
 
 |                           期刊名称                           |  影响因子  | 中科院分区 |              CCF等级              |                          T分区                           | 强制OA  |                             评价                             |
 | :----------------------------------------------------------: | :--------: | :--------: | :-------------------------------: | :----------------------------------------------------------: | :-----: | :----------------------------------------------------------: |
@@ -99,7 +99,7 @@
 | **[Journal of Vibration Engineering & Technologies](https://link.springer.com/journal/42417)** | **2.333** | **4** |                                   | **振动工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52zay5)** |
 | **[Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)** | **8.907** | **3** |                                   | **硅酸盐学会)(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6QW5)** |
 
-## 部分中文EI期刊推荐：
+## 部分中文EI期刊：
 
 | [控制与决策](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=KZYC) | [振动与冲击](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCJ) | [哈尔滨工业大学学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HEBX) | [西安交通大学学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=XAJT) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
