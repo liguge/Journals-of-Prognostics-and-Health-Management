@@ -113,7 +113,5 @@
 - Chao He
 - 22110435#bjtu.edu.cn   (please replace # by @)
 
-
-[![liguge's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguge)](https://github.com/liguge)
 ## Views
-![](http://profile-counter.glitch.me/Silentely/count.svg)
+![](http://profile-counter.glitch.me/liguge/count.svg)
