@@ -99,6 +99,7 @@
 | **[Journal of Vibration Engineering & Technologies](https://link.springer.com/journal/42417)** | **2.333** | **4** |                                   | **振动工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52zay5)** |
 | **[Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)** | **8.907** | **3** |                                   | **硅酸盐学会)(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6QW5)** |
 | **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** | **4.397** | **2(TOP)** |                                   | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=b5JZP5)** |
+| **[Signal, Image and Video Processing](https://www.springer.com/journal/11760/)** | **1.583** | **4** |                                   | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZN3AD)** |
 
 ## 部分中文EI期刊：
 
