@@ -100,6 +100,7 @@
 | **[Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)** | **8.907** | **3** |                                   | **硅酸盐学会)(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6QW5)** |
 | **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** | **4.397** | **2(TOP)** |                                   | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=b5JZP5)** |
 | **[Signal, Image and Video Processing](https://www.springer.com/journal/11760/)** | **1.583** | **4** |                                   | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZN3AD)** |
+| **[Frontiers of Mechanical Engineering](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10794)** | **4.063** | **1** | | **机械工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DakPap)** |
 
 ## 部分中文EI期刊：
 
