@@ -101,6 +101,7 @@
 | **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** | **4.397** | **2(TOP)** |                                   | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=b5JZP5)** |
 | **[Signal, Image and Video Processing](https://www.springer.com/journal/11760/)** | **1.583** | **4** |                                   | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZN3AD)** |
 | **[Frontiers of Mechanical Engineering](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10794)** | **4.063** | **1** | | **机械工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DakPap)** |
+| **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **2.847** | **4** |                                   | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
 
 ## 部分中文EI期刊：
 
@@ -110,7 +111,7 @@
 | **[ 计算机集成制造系统](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JSJJ)** | **[航空动力学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=HKDI)** | **[中国电机工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=ZGDC)** | **[振动工程学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDGC)** |
 | **[机械工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JXXB)** | **[航空学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HKXB)** | **[振动.测试与诊断](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCS)** | **[仪器仪表学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=YQXB)** |
 | **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
-| **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **2.847** | **4** |                                   | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
+
 
 # Contact
 - Chao He
