@@ -102,6 +102,7 @@
 | **[Signal, Image and Video Processing](https://www.springer.com/journal/11760/)** | **1.583** | **4** |                                   | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZN3AD)** |
 | **[Frontiers of Mechanical Engineering](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10794)** | **4.063** | **1** | | **机械工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DakPap)** |
 | **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **2.847** | **4** |                                   | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
+| **[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://dblp.uni-trier.de/db/conf/icassp/index.html)** | **(会议)** |  | **C** |  |  |  |
 
 ## 部分中文EI期刊：
 
