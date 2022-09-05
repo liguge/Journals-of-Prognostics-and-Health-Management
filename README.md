@@ -112,7 +112,11 @@
 | **[ 计算机集成制造系统](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JSJJ)** | **[航空动力学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=HKDI)** | **[中国电机工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=ZGDC)** | **[振动工程学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDGC)** |
 | **[机械工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JXXB)** | **[航空学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HKXB)** | **[振动.测试与诊断](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCS)** | **[仪器仪表学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=YQXB)** |
 | **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
-
+| **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.81** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
+| **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **14.255** | **1** | **B** | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
+| **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.633** | **3** |  | **振动工程学会(T1);铁道学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
+| **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **5.967** | **1** |  | **电机工程工程学会(T1);铁道学会(T1);自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
+| **[Science Progress](https://journals.sagepub.com/home/sci)** | **1.512** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Elaqp)** |
 
 # Contact
 - Chao He
