@@ -108,6 +108,7 @@
 | **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.633** | **3** |  | **振动工程学会(T1);铁道学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
 | **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **5.967** | **1** |  | **电机工程工程学会(T1);铁道学会(T1);自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
 | **[Science Progress](https://journals.sagepub.com/home/sci)** | **1.512** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Elaqp)** |
+| **Micromachines** | **3.523** | **3** |  | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pexOnr)** |
 
 ## 部分中文EI期刊：
 
