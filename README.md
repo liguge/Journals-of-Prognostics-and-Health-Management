@@ -106,10 +106,10 @@
 | **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.81** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
 | **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **14.255** | **1** | **B** | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
 | **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.633** | **3** |  | **振动工程学会(T1);铁道学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
-| **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **5.967** | **1** |  | **电机工程工程学会(T1);铁道学会(T1);自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
+| **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **5.967** | **1** |  | **电机工程学会(T1);铁道学会(T1);自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
 | **[Science Progress](https://journals.sagepub.com/home/sci)** | **1.512** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Elaqp)** |
 | **[Micromachines](https://www.mdpi.com/journal/micromachines)** | **3.523** | **3** |  | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pexOnr)** |
-| **[Journal of Electrical Engineering & Technology](https://www.springer.com/journal/42835)** | **1.528** | **4** | | **电机工程工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=59RYBD)** |
+| **[Journal of Electrical Engineering & Technology](https://www.springer.com/journal/42835)** | **1.528** | **4** | | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=59RYBD)** |
 
 ## 部分中文EI期刊：
 
