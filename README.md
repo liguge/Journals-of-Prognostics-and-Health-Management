@@ -110,6 +110,7 @@
 | **[Science Progress](https://journals.sagepub.com/home/sci)** | **1.512** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Elaqp)** |
 | **[Micromachines](https://www.mdpi.com/journal/micromachines)** | **3.523** | **3** |  | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pexOnr)** |
 | **[Journal of Electrical Engineering & Technology](https://www.springer.com/journal/42835)** | **1.528** | **4** | | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=59RYBD)** |
+| **[International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)** | **8.993** | **2** | | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwYwr)** |
 
 ## 部分中文EI期刊：
 
