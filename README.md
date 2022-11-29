@@ -104,7 +104,7 @@
 | **[Signal, Image and Video Processing](https://www.springer.com/journal/11760/)** | **1.583** | **4** |                                   | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZN3AD)** |
 | **[Frontiers of Mechanical Engineering](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10794)** | **4.063** | **1** | | **机械工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DakPap)** |
 | **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **2.847** | **4** |                                   | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
-| **[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://dblp.uni-trier.de/db/conf/icassp/index.html)** |  | **(会议)** | **C** |  |  |  |
+| **[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://dblp.uni-trier.de/db/conf/icassp/index.html)** |  | **(会议)** | **B** |  |  |  |
 | **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.81** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
 | **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **14.255** | **1** | **B** | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
 | **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.633** | **3** |  | **振动工程学会(T1);铁道学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
