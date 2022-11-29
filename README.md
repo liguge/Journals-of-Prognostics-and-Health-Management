@@ -115,6 +115,7 @@
 | **[International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)** | **8.993** | **2** | | **自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwYwr)** |
 | **[Journal of the Franklin Institute](https://www.sciencedirect.com/journal/journal-of-the-franklin-institute)** | **4.246** | **2** | | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DaNEar)** |
 | **[Measurement and Control](https://journals.sagepub.com/home/MAC)** | **1.648**  |   **4**    |         |                                                              |  **YES**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DY70vp)** |
+| **[Computational Intelligence and Neuroscience](https://www.hindawi.com/journals/cin)** | **3.120** | **4** | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5NYQLp)** |
 
 
 ## 部分中文EI期刊：
