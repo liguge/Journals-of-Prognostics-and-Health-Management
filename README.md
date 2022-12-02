@@ -144,4 +144,4 @@
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
 
-## 未经允许，严谨转载！
+## 未经允许，严禁转载！
