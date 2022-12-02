@@ -35,7 +35,7 @@
 | **[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)** | **8.665** |   **1**    |               **C**               |                      **自动化学会(T2)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pB2jEp)** |
 | **[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** | **8.139** |   **1**    |               **C**               |                      **自动化学会(T2)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=rAA2jr)** |
 | **[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)** | **8.263** | **2(TOP)** |    |                      **自动化学会(T2)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=yp1WdD)** |
-| **[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)** | **11.648** |   **1**    |    |               **铁道学会(T2);自动化学会(T1)**                | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=52Ad8p)** |
+| **[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)** | **11.648** |   **1**    | **C** |               **铁道学会(T2);自动化学会(T1)**                | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=52Ad8p)** |
 | **[IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)** | **8.162**  |   **1**    |    |      **仪器仪表学会(推荐);铁道学会(T2);自动化学会(T1)**      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DXRAvp)** |
 | **[Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)** | **7.247**  |   **1**    |    |     **兵工学会(T1);职业安全健康协会(T1);自动化学会(T1)**     | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5y03ap)** |
 | **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)** | **5.779**  | **2(TOP)** |               **C**               |               **兵工学会(T2);自动化学会(T2)**                | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5mNKeD)** |
@@ -45,10 +45,10 @@
 | **[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)** | **17.564** |   **1**    |    |                      **自动化学会(T1)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DlZBEp)** |
 | **[IEEE/ASME Transactions on Mechatronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)** | **5.867**  | **2(TOP)** |    |                      **自动化学会(T1)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pLa7a5)** |
 | **[Mechanism and Machine Theory](https://www.sciencedirect.com/journal/mechanism-and-machine-theory)** | **4.93**  |   **1**    |    |             **振动工程学会(T2);自动化学会(T2)**              | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5OeQ2r)** |
-| **[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)** | **11.471** |   **1**    |    |               **铁道学会(T2);自动化学会(T1)**                | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5ObXEp)** |
+| **[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)** | **11.471** |   **1**    | **B** |               **铁道学会(T2);自动化学会(T1)**                | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5ObXEp)** |
 | **[Neural Networks](https://www.sciencedirect.com/journal/neural-networks)** | **9.657**  |   **2**    |               **B**               |                      **自动化学会(T1)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pox085)** |
 | **[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)** | **7.802**  | **2(TOP)** |               **C**               |                      **自动化学会(T2)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pP3GOr)** |
-| **[IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)** | **5.883**  | **2(TOP)** |    |             **电机工程学会(T1);自动化学会(T2)**              | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=p1wEJD)** |
+| **[IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)** | **5.883**  | **2(TOP)** | **C** |             **电机工程学会(T1);自动化学会(T2)**              | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=p1wEJD)** |
 | **[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)** | **19.118** |   **1**    |               **B**               |                      **自动化学会(T1)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=5K9xer)** |
 | **[Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)** | **8.634**  |   **1**    |    |                     **电机工程学会(T2)**                     | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pnan6r)** |
 | **[Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)** | **7.180**  |   **2**    |    |                      **自动化学会(T2)**                      | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLL7r)** |
@@ -134,3 +134,7 @@
 
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
+
+## 写作思路
+![image](https://user-images.githubusercontent.com/19371493/174083357-625ce36e-fa5e-4598-84ae-bad2e3ff9acf.png)
+## 谢谢支持！
