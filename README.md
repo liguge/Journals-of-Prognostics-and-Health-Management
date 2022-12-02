@@ -1,6 +1,13 @@
 # 智能故障诊断和寿命预测期刊：
 ## Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新：
+
+2022.12.02：
+
+- 最新的CCF推荐期刊列表已经更新。
+
+  
+
 2022.06.28：
 
 - 最新的SCI影响因子已经更新。
