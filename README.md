@@ -123,6 +123,7 @@
 | **[Journal of the Franklin Institute](https://www.sciencedirect.com/journal/journal-of-the-franklin-institute)** | **4.246** | **2** | | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DaNEar)** |
 | **[Measurement and Control](https://journals.sagepub.com/home/MAC)** | **1.648**  |   **4**    |         |                                                              |  **YES**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DY70vp)** |
 | **[Computational Intelligence and Neuroscience](https://www.hindawi.com/journals/cin)** | **3.120** | **4** | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5NYQLp)** |
+| **[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)** | **6.636** | **2** | **B** | **自动化学会(T1)** |  **NO**   | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ2oXD)** |
 
 
 ## 部分中文EI期刊：
