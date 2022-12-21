@@ -1,5 +1,5 @@
 # 智能故障诊断和寿命预测期刊：
-## Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
+## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新：
 
 **2022.12.21：**
