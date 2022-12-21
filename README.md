@@ -1,5 +1,5 @@
 # 智能故障诊断和寿命预测期刊：
-## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
+## Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新：
 
 **2022.12.21：**
@@ -130,6 +130,8 @@
 | **[Measurement and Control](https://journals.sagepub.com/home/MAC)** | **1.648**  |   **4**    |         |                                                              |  **YES**  | **[ablesci](https://www.ablesci.com/journal/detail?id=DY70vp)** |
 | **[Computational Intelligence and Neuroscience](https://www.hindawi.com/journals/cin)** | **3.120** | **3**$\uparrow$ | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5NYQLp)** |
 | **[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)** | **6.636** | **1**$\uparrow$ | **B** | **自动化学会(T1)** |  **NO**   | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ2oXD)** |
+| **[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)** | **5.684** | **2** |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pPOq9r)** |
+| **[International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)** | **6.772** | **1** |  | **振动工程学会(T1);汽车工程学会(T2);兵工学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rA4GbD)** |
 
 
 ## 部分中文EI期刊：
@@ -149,4 +151,6 @@
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
+## 写作思路
+![image](https://user-images.githubusercontent.com/19371493/174083357-625ce36e-fa5e-4598-84ae-bad2e3ff9acf.png)
 ## 谢谢支持！
