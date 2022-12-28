@@ -151,6 +151,4 @@
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
 
-## 写作思路
-![image](https://user-images.githubusercontent.com/19371493/174083357-625ce36e-fa5e-4598-84ae-bad2e3ff9acf.png)
 ## 谢谢支持！
