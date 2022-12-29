@@ -103,7 +103,7 @@
 | **[Chinese Journal of Mechanical Engineering](https://cjme.springeropen.com/)** | **2.964** |   **3**    |    |   **仪器仪表协会(推荐);振动工程学会(T1);机械工程学会(T1)**   | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=VDMe8D)** |
 | **[Journal of Building Engineering](https://www.sciencedirect.com/journal/journal-of-building-engineering)** | **7.144** |   **2**    |    |                                                              | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=pPOenr)** |
 | **[IEEE Transactions on Industry Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28)** | **4.079** |   **2**    |    |             **自动化学会(T2);电机工程学会(T2)**              | **NO**  | **[ablesci](https://www.ablesci.com/journal/detail?id=rwqwx5)** |
-| **[Electronics](https://www.mdpi.com/journal/electronics)**  | **2.69** | **3**$\uparrow$ |    |                                                              | **`YES`** | **[ablesci](https://www.ablesci.com/journal/detail?id=peVkX5)** |
+| **[Electronics](https://www.mdpi.com/journal/electronics)**  | **2.690** | **3**$\uparrow$ |    |                                                              | **`YES`** | **[ablesci](https://www.ablesci.com/journal/detail?id=peVkX5)** |
 | **[Neural Processing Letters](https://www.springer.com/journal/11063/)** | **2.565** | **4** | **C** |                                                              | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5jd96r)** |
 | **[Energy Reports](https://www.sciencedirect.com/journal/energy-reports)** | **4.937** | **4**$\downarrow$ |                                   |                                                              | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mxEop)** |
 | **[The International Journal of Advanced Manufacturing Technology](https://www.springer.com/journal/170/)**| **3.563** | **3** |                                   | **兵工学会(T3);自动化学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLR4r)** |
@@ -118,7 +118,7 @@
 | **[Frontiers of Mechanical Engineering](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10794)** | **4.063** | **3**$\downarrow$ | | **机械工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DakPap)** |
 | **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **2.847** | **4** |                                   | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
 | **[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://dblp.uni-trier.de/db/conf/icassp/index.html)** |  | **(会议)** | **B** |  |  |  |
-| **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.81** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
+| **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.810** | **4** |  | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
 | **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **14.255** | **1** | **B** | **自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
 | **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.633** | **3** |  | **振动工程学会(T1);铁道学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
 | **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **5.967** | **1** |  | **电机工程学会(T1);铁道学会(T1);自动化学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
@@ -132,6 +132,7 @@
 | **[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)** | **6.636** | **1**$\uparrow$ | **B** | **自动化学会(T1)** |  **NO**   | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ2oXD)** |
 | **[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)** | **5.684** | **2** |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pPOq9r)** |
 | **[International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)** | **6.772** | **1** |  | **振动工程学会(T1);汽车工程学会(T2);兵工学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rA4GbD)** |
+| **[Journal of the Brazilian Society of Mechanical Sciences and Engineering](https://link.springer.com/journal/40430)** | **2.361** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5jRqb5)** |
 
 
 ## 部分中文EI期刊：
