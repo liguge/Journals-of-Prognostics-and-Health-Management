@@ -134,6 +134,7 @@
 | **[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)** | **5.684** | **2** |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pPOq9r)** |
 | **[International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)** | **6.772** | **1** |  | **振动工程学会(T1);汽车工程学会(T2);兵工学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rA4GbD)** |
 | **[Journal of the Brazilian Society of Mechanical Sciences and Engineering](https://link.springer.com/journal/40430)** | **2.361** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5jRqb5)** |
+| **[Heliyon](https://www.sciencedirect.com/journal/heliyon)** | **3.776** | **4** | | | **YES** | **[ablesci](https://www.ablesci.com/journal/index?keywords=Heliyon)** |
 
 
 ## 部分中文EI期刊：
