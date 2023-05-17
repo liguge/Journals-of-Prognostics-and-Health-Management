@@ -149,7 +149,7 @@
 
 # Contact
 - Chao He
-- choahe#bjtu.edu.cn   (please replace # by @)
+- chaohe#bjtu.edu.cn   (please replace # by @)
 
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
