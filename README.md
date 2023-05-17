@@ -149,7 +149,7 @@
 
 # Contact
 - Chao He
-- 22110435#bjtu.edu.cn   (please replace # by @)
+- choahe#bjtu.edu.cn   (please replace # by @)
 
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
