@@ -35,7 +35,7 @@
 
 - [ablesci](https://www.ablesci.com)中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 
-- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;
+- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021)
 
 - ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`,`Watch`,`star`！**</font>❤❤❤
 
@@ -135,6 +135,8 @@
 | **[International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)** | **6.772** | **1** |  | **振动工程学会(T1);汽车工程学会(T2);兵工学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rA4GbD)** |
 | **[Journal of the Brazilian Society of Mechanical Sciences and Engineering](https://link.springer.com/journal/40430)** | **2.361** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5jRqb5)** |
 | **[Heliyon](https://www.sciencedirect.com/journal/heliyon)** | **3.776** | **4** | | | **YES** | **[ablesci](https://www.ablesci.com/journal/index?keywords=Heliyon)** |
+| **[Forschung im Ingenieurwesen-Engineering Research](https://www.springer.com/journal/10010/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_10010_AWA1_CN_CNPL_letpb_mp)** | **0.992** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5KlodD)** |
+| **[Mechanics & Industry](https://www.mechanics-industry.org/)** | **0.995** | **4** | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r8MEqp)** |
 
 
 ## 部分中文EI期刊：
@@ -149,7 +151,7 @@
 
 # Contact
 - Chao He
-- chaohe#bjtu.edu.cn   (please replace # by @)
+- 22110435#bjtu.edu.cn   (please replace # by @)
 
 ## Views
 ![](http://profile-counter.glitch.me/liguge/count.svg)
