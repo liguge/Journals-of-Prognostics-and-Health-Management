@@ -137,6 +137,9 @@
 | **[Heliyon](https://www.sciencedirect.com/journal/heliyon)** | **3.776** | **4** | | | **YES** | **[ablesci](https://www.ablesci.com/journal/index?keywords=Heliyon)** |
 | **[Forschung im Ingenieurwesen-Engineering Research](https://www.springer.com/journal/10010/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_10010_AWA1_CN_CNPL_letpb_mp)** | **0.992** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5KlodD)** |
 | **[Mechanics & Industry](https://www.mechanics-industry.org/)** | **0.995** | **4** | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r8MEqp)** |
+| **[Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)** | **5.336** | **2(TOP)** | | **中国仿真学会(T2);中国数学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=w5gwd5)** |
+
+
 
 
 ## 部分中文EI期刊：
