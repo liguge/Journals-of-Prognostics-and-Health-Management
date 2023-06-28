@@ -37,8 +37,6 @@
 
 - 有的期刊刊发的智能故障诊断的论文比较多。**有些期刊也刊发智能故障诊断的论文，但是选择这类期刊时需要注意论文研究的对象要符合期刊范围。**
 
-- 一些计算机的顶级期刊也刊发此方向论文，但是刊文量极少，比如（[TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)等）。
-
 - [ablesci](https://www.ablesci.com)中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 
 - **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023)
