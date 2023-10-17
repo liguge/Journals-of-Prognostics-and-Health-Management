@@ -142,7 +142,10 @@
 | **[Forschung im Ingenieurwesen-Engineering Research](https://www.springer.com/journal/10010/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_10010_AWA1_CN_CNPL_letpb_mp)** |  **1.1**  |         **4**         |         |                                                              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=5KlodD)** |
 | **[Mechanics & Industry](https://www.mechanics-industry.org/)** |  **1.2**  |         **4**         |         |                                                              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=r8MEqp)** |
 | **[Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)** |  **5.0**  |      **2(TOP)**       |         |             **中国仿真学会(T2);中国数学会(T2)**              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=w5gwd5)** |
-| **[Transactions of the Institute of Measurement and Control](https://journals.sagepub.com/home/TIM)** | **1.8** | **4** | |  | **NO** | **[ablesi](https://www.ablesci.com/journal/detail?id=5QPVAp)** |
+| **[Transactions of the Institute of Measurement and Control](https://journals.sagepub.com/home/TIM)** | **1.8** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5QPVAp)** |
+| **[Advances in Manufacturing](https://www.springer.com/journal/40436/)** | **5.2** | **2** | | | **NO** | **(ablesci)[https://www.ablesci.com/journal/detail?id=r7mwA5]** |
+
+
 
 
 
