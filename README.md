@@ -143,7 +143,7 @@
 | **[Mechanics & Industry](https://www.mechanics-industry.org/)** |  **1.2**  |         **4**         |         |                                                              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=r8MEqp)** |
 | **[Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling)** |  **5.0**  |      **2(TOP)**       |         |             **中国仿真学会(T2);中国数学会(T2)**              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=w5gwd5)** |
 | **[Transactions of the Institute of Measurement and Control](https://journals.sagepub.com/home/TIM)** | **1.8** | **4** | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5QPVAp)** |
-| **[Advances in Manufacturing](https://www.springer.com/journal/40436/)** | **5.2** | **2** | | | **NO** | **(ablesci)[https://www.ablesci.com/journal/detail?id=r7mwA5]** |
+| **[Advances in Manufacturing](https://www.springer.com/journal/40436/)** | **5.2** | **2** | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7mwA5)** |
 
 
 
