@@ -1,6 +1,6 @@
 # 智能故障诊断和寿命预测期刊：
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
-### 更新：
+### 更新说明：
 
 **2023.12.25**
 
@@ -52,7 +52,7 @@
 
 ## 英文期刊：
 
-|                           期刊名称                           | 影响因子  |      中科院分区       | CCF等级 |                            T分区                             |    强制OA     |                             评价                             |
+|                           期刊名称                           | 影响因子  |      中科院分区(升级版)      | CCF等级 |                            T分区                             |    强制OA     |                             评价                             |
 | :----------------------------------------------------------: | :-------: | :-------------------: | :-----: | :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
 | **[Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)** |  **8.4**  |         **1**         |         | **兵工学会(T1);振动工程学会(T1);铁道学会(T2);自动化学会(A)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=p3bNNr)** |
 | **[ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions)** |  **7.3**  |      **2(TOP)**       |         |                    **仪器仪表学会(推荐)**                    |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DXbbap)** |
