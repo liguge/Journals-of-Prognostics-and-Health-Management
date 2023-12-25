@@ -7,7 +7,7 @@
 - **2023年最新《高质量科技期刊分级目录总汇》**
 - **2023年电子学会高质量科技期刊分级目录**
   - **[计算机技术领域](https://cietest.yesky.com/list_248/11955.html)**
-  - **[电子技术、通信技术领域]([https://cietest.yesky.com/list_248/11954.html](https://mp.weixin.qq.com/s__biz=MzA4MTgwMjkyNw==&mid=2657358716&idx=1&sn=f70b1b6b3c08c47f521f1a4615412384&chksm=8520164eeae2fcf963af6d99ff12900f4486e0c198b1a1e9148bce6c7a48659382f1e0da83e5&scene=126&sessionid=1703508154#rd)**
+  - **[电子技术、通信技术领域}([https://mp.weixin.qq.com/s__biz=MzA4MTgwMjkyNw==&mid=2657358716&idx=1&sn=f70b1b6b3c08c47f521f1a4615412384&chksm=8520164eeae2fcf963af6d99ff12900f4486e0c198b1a1e9148bce6c7a48659382f1e0da83e5&scene=126&sessionid=1703508154#rd](https://mp.weixin.qq.com/s?__biz=MzA4MTgwMjkyNw==&mid=2657358716&idx=1&sn=f70b1b6b3c08c47f521f1a4615412384&chksm=8520164eeae2fcf963af6d99ff12900f4486e0c198b1a1e9148bce6c7a48659382f1e0da83e5&scene=126&sessionid=1703508154#rd))**
 
 2023.06.28：
 
