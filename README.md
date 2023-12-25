@@ -2,12 +2,12 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新：
 
-2023.12.25
+**2023.12.25**
 
-- 2023年最新《高质量科技期刊分级目录总汇》
-- 2023年电子学会高质量科技期刊分级目录
-  - [计算机技术领域](https://cietest.yesky.com/list_248/11955.html)
-  - [电子技术、通信技术领域](https://cietest.yesky.com/list_248/11954.html)
+- **2023年最新《高质量科技期刊分级目录总汇》**
+- **2023年电子学会高质量科技期刊分级目录**
+  - **[计算机技术领域](https://cietest.yesky.com/list_248/11955.html)**
+  - **[电子技术、通信技术领域](https://cietest.yesky.com/list_248/11954.html)**
 
 2023.06.28：
 
