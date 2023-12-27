@@ -7,7 +7,7 @@
 - **2023年最新《高质量科技期刊分级目录总汇》**
 - **2023年电子学会高质量科技期刊分级目录**
   - **[计算机技术领域](https://cietest.yesky.com/list_248/11955.html)**
-  - **[电子技术、通信技术领域](https://mp.weixin.qq.com/s?__biz=MzA4MTgwMjkyNw==&mid=2657358716&idx=1&sn=f70b1b6b3c08c47f521f1a4615412384&chksm=8520164eeae2fcf963af6d99ff12900f4486e0c198b1a1e9148bce6c7a48659382f1e0da83e5&scene=126&sessionid=1703508154#rd)**
+  - **[电子技术、通信技术领域](https://cietest.yesky.com/list_248/11954.html)**
 
 2023.06.28：
 
@@ -52,7 +52,7 @@
 
 ## 英文期刊：
 
-|                           期刊名称                           | 影响因子  |      中科院分区(升级版)      | CCF等级 |                            高质量科技期刊分级                             |    强制OA     |                             评价                             |
+|                           期刊名称                           | 影响因子  |      中科院分区(升级版)      | CCF等级 |                            T分区                             |    强制OA     |                             评价                             |
 | :----------------------------------------------------------: | :-------: | :-------------------: | :-----: | :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
 | **[Mechanical Systems and Signal Processing](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)** |  **8.4**  |         **1**         |         | **兵工学会(T1);振动工程学会(T1);铁道学会(T2);自动化学会(A)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=p3bNNr)** |
 | **[ISA Transactions](https://www.sciencedirect.com/journal/isa-transactions)** |  **7.3**  |      **2(TOP)**       |         |                    **仪器仪表学会(推荐)**                    |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DXbbap)** |
@@ -78,7 +78,7 @@
 | **[Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)** |  **8.7**  |         **1**         |         |                     **电机工程学会(T2)**                     |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=pnan6r)** |
 | **[Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)** |  **7.9**  |         **2**         |         |                      **自动化学会(A);优选法统筹法与经济数学研究会(T2)**                      |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLL7r)** |
 |  **[Energy](https://www.sciencedirect.com/journal/energy)**  |  **9.0**  |         **1**         |         |             **电机工程学会(T3);自动化学会(A)**              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLvAr)** |
-| **[Applied Intelligence](https://www.springer.com/journal/10489/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_10489_AWA1_CN_CNPL_letpb_mp)** |  **5.3**  |         **2**         |  **C**  | **电子学会(T3)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=K59gbr)** |
+| **[Applied Intelligence](https://www.springer.com/journal/10489/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_10489_AWA1_CN_CNPL_letpb_mp)** |  **5.3**  |         **2**         |  **C**  | 电子学会(T3) |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=K59gbr)** |
 | **[Structural Control & Health Monitoring](https://onlinelibrary.wiley.com/journal/15452263)** |  **5.4**  |         **2**         |         | **仪器仪表协会(T3);振动工程学会(T1);建筑学会(T1);铁道学会(T2)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=pWVv3r)** |
 | **[Complex & Intelligent Systems](https://www.springer.com/journal/40747/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_40747_AWA1_CN_CNPL_letpb_OAXmp)** |  **5.8**  |         **2**         |         |                                                              |    **YES**    | **[ablesci](https://www.ablesci.com/journal/detail?id=5kPgyD)** |
 | **[Neural Computing and Applications](https://www.springer.com/journal/521/?utm_medium=display&utm_source=letpub&utm_content=text_link&utm_term=null&utm_campaign=MPSR_00521_AWA1_CN_CNPL_letpb_mp)** |  **6.0**  |         **3**         |  **C**  | **图象图形学学会(T3);电子学会(T3)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=5KWee5)** |
