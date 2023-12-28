@@ -159,7 +159,7 @@
 | **[Transactions of the Institute of Measurement and Control](https://journals.sagepub.com/home/TIM)** | **1.8** | **4** | | |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5QPVAp)** |
 | **[Advances in Manufacturing](https://www.springer.com/journal/40436/)** | **5.2** | **2** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7mwA5)** |
 | **[Applied Thermal Engineering](https://www.sciencedirect.com/journal/applied-thermal-engineering)** | **6.4** | **2(TOP)**$\uparrow$ | **1** | | **电机工程学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWyND)** |
-| **[Scientific Report](https://www.nature.com/srep/)** | **4.6** | **2$\uparrow$** | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rAXQeD)** |
+| **[Scientific Report](https://www.nature.com/srep/)** | **4.6** | **2**$\uparrow$ | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rAXQeD)** |
 
 
 
