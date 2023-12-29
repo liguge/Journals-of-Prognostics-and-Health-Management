@@ -160,6 +160,8 @@
 | **[Advances in Manufacturing](https://www.springer.com/journal/40436/)** | **5.2** | **2** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7mwA5)** |
 | **[Applied Thermal Engineering](https://www.sciencedirect.com/journal/applied-thermal-engineering)** | **6.4** | **2(TOP)**$\uparrow$ | **1** | | **电机工程学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWyND)** |
 | **[Scientific Report](https://www.nature.com/srep/)** | **4.6** | **2**$\uparrow$ | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rAXQeD)** |
+| **[Electronic Research Archive](https://www.aimspress.com/journal/era)** | **0.8** | **4** | | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6Ab5)** |
+| **[Computer Modeling in Engineering & Sciences](https://www.techscience.com/journal/CMES)** | **2.4** | **4** | | | **仿真学会(T3)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=ypoVzr)** |
 
 
 
@@ -170,8 +172,9 @@
 
 |                            期刊名                            |                            期刊名                            |                            期刊名                            |                            期刊名                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **[兵工学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=BIGO)** | **[西南交通大学学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=XNJT)** | **[铁道科学与工程学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=CSTD)** | **[吉林大学学报(工学版)](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JLGY)** |
-| **[ 计算机集成制造系统](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JSJJ)** | **[航空动力学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=HKDI)** | **[中国电机工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=ZGDC)** | **[振动工程学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDGC)** |
-| **[机械工程学报](https://kns.cnki.net/kns8/Navi?DBCode=CAPJ&BaseID=JXXB)** | **[航空学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HKXB)** | **[振动.测试与诊断](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCS)** | **[仪器仪表学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=YQXB)** |
-| **[太阳能学报](https://kns.cnki.net/kns8/Navi?DBCode=CJFD&BaseID=TYLX)** | **[ 中国机械工程](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZGJX)** | **[电力系统保护与控制](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=JDQW)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HZLG)** |
-| [控制与决策](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=KZYC) | [振动与冲击](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=ZDCJ) | [哈尔滨工业大学学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=HEBX) | [西安交通大学学报](https://kns.cnki.net/kns8/Navi?DBCode=cjfq&BaseID=XAJT) |
+| **[兵工学报](https://kns.cnki.net/knavi/journals/BIGO/detail?uniplatform=NZKPT)** | **[西南交通大学学报](https://kns.cnki.net/knavi/journals/XNJT/detail?uniplatform=NZKPT)** | **[铁道科学与工程学报](https://kns.cnki.net/knavi/journals/CSTD/detail?uniplatform=NZKPT)** | **[吉林大学学报(工学版)](https://kns.cnki.net/knavi/journals/JLGY/detail?uniplatform=NZKPT)** |
+| **[计算机集成制造系统](https://kns.cnki.net/knavi/journals/JSJJ/detail?uniplatform=NZKPT)** | **[航空动力学报](https://kns.cnki.net/knavi/journals/HKDI/detail?uniplatform=NZKPT)** | **[中国电机工程学报](https://kns.cnki.net/knavi/journals/ZGDC/detail?uniplatform=NZKPT)** | **[振动工程学报](https://kns.cnki.net/knavi/journals/ZDGC/detail?uniplatform=NZKPT)** |
+| **[机械工程学报](https://kns.cnki.net/knavi/journals/JXXB/detail?uniplatform=NZKPT)** | **[航空学报](https://kns.cnki.net/knavi/journals/HKXB/detail?uniplatform=NZKPT)** | **[振动.测试与诊断](https://kns.cnki.net/knavi/journals/ZDCS/detail?uniplatform=NZKPT)** | **[仪器仪表学报](https://kns.cnki.net/knavi/journals/YQXB/detail?uniplatform=NZKPT)** |
+| **[太阳能学报](https://kns.cnki.net/knavi/journals/TYLX/detail?uniplatform=NZKPT)** | **[中国机械工程](https://kns.cnki.net/knavi/journals/ZGJX/detail?uniplatform=NZKPT)** | **[电力系统保护与控制](https://kns.cnki.net/knavi/journals/JDQW/detail?uniplatform=NZKPT)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/knavi/journals/HZLG/detail?uniplatform=NZKPT)** |
+| **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
+
