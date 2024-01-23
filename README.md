@@ -164,6 +164,8 @@
 | **[Computer Modeling in Engineering & Sciences](https://www.techscience.com/journal/CMES)** | **2.4** | **4** | | | **仿真学会(T3)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=ypoVzr)** |
 | **[Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)** | **6.8** | **2(TOP)**$\uparrow$ | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5ElnNp)** |
 | **[Science China Technological Sciences](https://link.springer.com/journal/11431)** | **4.6** | **2** | | | **材料研究学会(T1);岩石力学与工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DGNYZ5)** |
+| **[Annals of Nuclear Energy](https://www.sciencedirect.com/journal/annals-of-nuclear-energy)** | **1.9** | **3** | **2** |  | **核学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWO6p)** |
+| **[Mathematical Biosciences and Engineering](https://www.aimspress.com/journal/mbe)** | **2.6** | **4** |  | |  | **YSE** | **[ablesci](https://www.ablesci.com/journal/detail?id=r78WWp)** |
 
 
 
