@@ -2,9 +2,9 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
-2024.2.19
+**2024.2.19**
 
-- 更新最新版中科院预警期刊
+- **更新最新版中科院预警期刊**
 
 2023.12.28：
 
