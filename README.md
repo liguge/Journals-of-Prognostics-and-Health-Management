@@ -2,11 +2,15 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
-**2023.12.28：**
+2024.2.19
 
-- **最新的2023年中科院升级版分区： $\uparrow$表示大区升级或者变为TOP期刊； $\downarrow$表示大区降级或变为非TOP期刊。**
+- 更新最新版中科院预警期刊
 
-- **增加小类分区（只记最高分区）**
+2023.12.28：
+
+- 最新的2023年中科院升级版分区： $\uparrow$表示大区升级或者变为TOP期刊； $\downarrow$表示大区降级或变为非TOP期刊。
+
+- 增加小类分区（只记最高分区）
 
   
 
@@ -54,9 +58,9 @@
 
 - [ablesci](https://www.ablesci.com)中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 
-- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023)
+- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;  [2024](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2024)
 
-- ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`,`Watch`,`star`！**</font>❤❤❤
+- ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`, `Watch`,` star`！**</font>❤❤❤
 
 ## 英文期刊：
 
@@ -113,7 +117,7 @@
 |     **[Sensors](https://www.mdpi.com/journal/sensors)**      |  **3.9**  |         **3**         | **2** |         |                        **核学会(T3)**                        |   **`YES`**   | **[ablesci](https://www.ablesci.com/journal/detail?id=5QQnn5)** |
 | **[Shock and Vibration](https://www.hindawi.com/journals/sv/)** |  **1.6**  |         **4**         |         |         |              **兵工学会(T3);振动工程学会(T3)**               |   **`YES`**   | **[ablesci](https://www.ablesci.com/journal/detail?id=peRqK5)** |
 |    **[Machines](https://www.mdpi.com/journal/machines)**     |  **2.6**  |         **3**         |         |         |                                                              |   **`YES`**   | **[ablesci](https://www.ablesci.com/journal/detail?id=5dBXkr)** |
-| **[Journal of Sensors](https://www.hindawi.com/journals/js/)** |  **1.9**  |         **4**         |         |         |                                                              |    **YES**    | **[ablesci](https://www.ablesci.com/journal/detail?id=5kP9yD)** |
+| **[Journal of Sensors](https://www.hindawi.com/journals/js/)** |  **1.9**  |         **4**         |         |         |                                                              |    **`YES`**    | **[ablesci](https://www.ablesci.com/journal/detail?id=5kP9yD)** |
 | **[Chinese Journal of Aeronautics](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics)** |  **5.7**  |   **1(非TOP)**   |         |         |              **航空学会(T1);振动工程学会(T1)**               |    **YES**    | **[ablesci](https://www.ablesci.com/journal/detail?id=QDXBap)** |
 | **[Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)** |  **3.4**  |         **2**         |         |         |                     **振动工程学会(T2)**                     |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=KpPjBD)** |
 | **[Computers & Chemical Engineering](https://www.sciencedirect.com/journal/computers-and-chemical-engineering)** |  **4.3**  |         **2**         |         |         |                      **自动化学会(A)**                      |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=5dggzp)** |
@@ -163,7 +167,7 @@
 | **[Applied Thermal Engineering](https://www.sciencedirect.com/journal/applied-thermal-engineering)** | **6.4** | **2(TOP)**$\uparrow$ | **1** | | **电机工程学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWyND)** |
 | **[Scientific Report](https://www.nature.com/srep/)** | **4.6** | **2**$\uparrow$ | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rAXQeD)** |
 | **[Electronic Research Archive](https://www.aimspress.com/journal/era)** | **0.8** | **4** | | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=DG6Ab5)** |
-| **[Computer Modeling in Engineering & Sciences](https://www.techscience.com/journal/CMES)** | **2.4** | **4** | | | **仿真学会(T3)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=ypoVzr)** |
+| **[Computer Modeling in Engineering & Sciences](https://www.techscience.com/journal/CMES)** | **2.4** | **4** | | | **仿真学会(T3)** | **`YES`** | **[ablesci](https://www.ablesci.com/journal/detail?id=ypoVzr)** |
 | **[Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)** | **6.8** | **2(TOP)**$\uparrow$ | | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5ElnNp)** |
 | **[Science China Technological Sciences](https://link.springer.com/journal/11431)** | **4.6** | **2** | | | **材料研究学会(T1);岩石力学与工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DGNYZ5)** |
 | **[Annals of Nuclear Energy](https://www.sciencedirect.com/journal/annals-of-nuclear-energy)** | **1.9** | **3** | **2** |  | **核学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWO6p)** |
