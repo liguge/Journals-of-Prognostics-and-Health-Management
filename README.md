@@ -7,8 +7,8 @@
 - **最新的2025年中科院升级版分区： $\uparrow$表示大区升级或者变为TOP期刊； $\downarrow$表示大区降级或变为非TOP期刊。**
 - **由于一些学院评奖等只看小类分区，因此如果所有小类分区均低于大类分区，则标注。**
 - **0区表示没有中科院分区。**
-![image](https://github.com/user-attachments/assets/1f819c9d-0650-416b-a612-7cfeb4255f7b)
 
+![image](https://github.com/user-attachments/assets/1f819c9d-0650-416b-a612-7cfeb4255f7b)
 
 2024.12.13
 
