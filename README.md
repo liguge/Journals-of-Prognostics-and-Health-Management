@@ -8,7 +8,7 @@
 - **由于一些学院评奖等只看小类分区，因此如果所有小类分区均低于大类分区，则标注。**
 - **0区表示没有中科院分区。**
 
-![image](https://github.com/user-attachments/assets/a6a87290-2a6f-4d04-9963-67997405a3fe)
+![image](https://github.com/user-attachments/assets/a369c156-7941-4b7a-b1a1-8bbc23e42f88)
 
 2024.12.13
 
