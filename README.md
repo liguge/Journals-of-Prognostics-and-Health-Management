@@ -148,7 +148,7 @@
 | **[Neural Processing Letters](https://www.springer.com/journal/11063/)** |  **2.6**  |         **4**         |    |  **C/N**  |                                                              |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=5jd96r)** |
 | **[Energy Reports](https://www.sciencedirect.com/journal/energy-reports)** |  **4.7**  |   **3**   | **4** |         |                                                              |   **`YES`**   | **[ablesci](https://www.ablesci.com/journal/detail?id=5mxEop)** |
 | **[The International Journal of Advanced Manufacturing Technology](https://www.springer.com/journal/170/)** |  **2.9**  |         **3**         | **4** |         |               **兵工学会(T3);自动化学会(B)**                |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLR4r)** |
-| **[Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)** |  **4.0**  |         **3**$\downarrow$         |         |         | **图象图形学学会(T3)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=52AAYp)** |
+| **[Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)** |  **4.0**  |         **3**         |         |         | **图象图形学学会(T3)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=52AAYp)** |
 | **[Advances in Mechanical Engineering](https://journals.sagepub.com/home/ade)** |  **1.9**  |         **4**         |         |         |                                                              |    **YES**    | **[ablesci](https://www.ablesci.com/journal/detail?id=r0xmqr)** |
 | **[IET Control Theory and Applications](https://digital-library.theiet.org/content/journals/iet-cta)** |  **2.2**  |   **4**   |         |         |                      **自动化学会(B)**                      |    **YES**    | **[ablesci](https://www.ablesci.com/journal/detail?id=pe9G6p)** |
 | **[Nuclear Engineering and Design](https://www.sciencedirect.com/journal/nuclear-engineering-and-design)** |  **1.9**  |         **3**         |  |         |                        **核学会(T2)**                        |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DZV3OD)** |
@@ -199,7 +199,7 @@
 | **[IEEE Transactions on Control Systems Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87)** | **4.9** | **2** | | | **自动化学会(A);指挥与控制学会(T1);声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pLaVj5)** |
 | **[International Conference on Pattern Recognition](https://dblp.uni-trier.de/db/conf/icpr/index.html)** |  | **(会议)** | | **C/B** |  |  |  |
 | **[Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=true)** | **4.8** | **2** | **3** |  | **图学学会(T2)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pWGm3p)** |
-| **[IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)** | **3.2** | **3**$\uparrow$ | | **C/C** | **自动化学会(B);图象图形学学会(T3);电子学会(T3);声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DbGdnr)** |
+| **[IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)** | **3.2** | **3**$\downarrow$ | | **C/C** | **自动化学会(B);图象图形学学会(T3);电子学会(T3);声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DbGdnr)** |
 
 
 
