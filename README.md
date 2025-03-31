@@ -2,9 +2,9 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
-**2025.03.25：**
+**2025.03.31：**
 
-- 更新仪器仪表学会[《仪器仪表领域高质量科技期刊分级目录（2025版）》](https://mp.weixin.qq.com/s/gjUMd2P6AJGRh0kmXQ9rmw)
+- 更新中国仪器仪表学会[《仪器仪表领域高质量科技期刊分级目录（2025版）》](https://mp.weixin.qq.com/s/gjUMd2P6AJGRh0kmXQ9rmw)
 
 **2025.03.21：**
 
