@@ -2,13 +2,17 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
+**2025.03.25：**
+
+- 更新仪器仪表学会[《仪器仪表领域高质量科技期刊分级目录（2025版）》](https://mp.weixin.qq.com/s/gjUMd2P6AJGRh0kmXQ9rmw)
+
 **2025.03.21：**
 
 - **最新的2025年中科院升级版分区： $\uparrow$表示大区升级或者变为TOP期刊； $\downarrow$表示大区降级或变为非TOP期刊。**
 - **由于一些学院评奖等只看小类分区，因此如果所有小类分区均低于大类分区，则标注。**
 - **0区表示没有中科院分区。**
 
-<img width="1247" alt="43849048bb0fcf1362b2cc0ff21144a" src="https://github.com/user-attachments/assets/0e3847b1-46c1-4e0d-be1c-7e13805b5c56" />
+![image](https://github.com/user-attachments/assets/a369c156-7941-4b7a-b1a1-8bbc23e42f88)
 
 2024.12.13
 
@@ -123,7 +127,7 @@
 | **[Computers in Industry](https://www.sciencedirect.com/journal/computers-in-industry)** | **8.2**  |    **1**    | **2** |         | **优选法统筹法与经济数学研究会(T3)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=r7RRbD)** |
 | **[Engineering Failure Analysis](https://www.sciencedirect.com/journal/engineering-failure-analysis)** |  **4.4**  |         **2**         | **1** |         |     **振动工程学会(T3);铁道学会(T3);腐蚀与防护学会(T3);机械工程学会(T2)**     |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=p1w9OD)** |
 | **[Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics)** |  **8.0**  |    **1**    |    |  **B/B**  | **岩石力学与工程学会(T2)** |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=BDagop)** |
-| **[Measurement Science and Technology](https://iopscience.iop.org/journal/0957-0233)** |  **2.7**  |         **3**         |         |         |                     **仪器仪表学会(T1);照明学会(T2);光学工程学会(T3)**                     |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=pBMbJr)** |
+| **[Measurement Science and Technology](https://iopscience.iop.org/journal/0957-0233)** |  **2.7**  |         **3**         |         |         |                     **仪器仪表学会(T2);照明学会(T2);光学工程学会(T3)**                     |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=pBMbJr)** |
 | **[Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice)** |  **5.4**  |    **2**    |         |         |                      **自动化学会(A)**                      |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DYQ73D)** |
 | **[Digital Signal Processing](https://www.sciencedirect.com/journal/digital-signal-processing)** |  **2.9**  |   **3**   |         | **N/C** |                       **兵工学会(T3);图象图形学学会(T3);电子学会(T3);声学学会(T3)**                       |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DGLbBr)** |
 | **[Simulation Modelling Practice and Theory](https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory)** |  **3.5**  |    **3**$\downarrow$    | **2** |         |               **仿真学会(T1);自动化学会(A)**                |    **NO**     | **[ablesci](https://www.ablesci.com/journal/detail?id=DYlV35)** |
