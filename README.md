@@ -82,7 +82,7 @@
 - 有的期刊刊发的智能故障诊断的论文比较多。**有些期刊也刊发智能故障诊断的论文，但是选择这类期刊时需要注意论文研究的对象要符合期刊范围。**
 - [ablesci](https://www.ablesci.com)中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 - "**N**"表示没有收录到CCF或者CAAI推荐目录。
-- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;  [2024](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2024);[2025](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2025)
+- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;  [2024](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2024); [2025](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2025)
 - ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`, `Watch`,` star`！**</font>❤❤❤
 
 ## 英文期刊：
