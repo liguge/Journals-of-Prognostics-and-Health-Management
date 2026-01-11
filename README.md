@@ -2,6 +2,10 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
+**2026.01.11:**
+
+- [2024年高质量科技期刊分级目录总汇。](https://www.cast.org.cn/xw/gzdt/KJCX/art/2025/art_7affb3ed494c436b9a69aedb8604e400.html)
+
 **2025.06.18：**
 
 - 2024年最新的SCI影响因子已经更新。
@@ -208,6 +212,18 @@
 | **[International Conference on Pattern Recognition](https://dblp.uni-trier.de/db/conf/icpr/index.html)** |  | **(会议)** | | **C/B** |  |  |  |
 | **[Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=true)** | **6.1** | **2** | **3** |  | **图学学会(T2)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pWGm3p)** |
 | **[IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)** | **3.9** | **3$\downarrow$** | | **C/C** | **自动化学会(B);图象图形学学会(T3);电子学会(T3);声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DbGdnr)** |
+| **[Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)** | **11.6** | **1** |  |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMAW3D)** |
+| **[Process Safety and Environmental Protection](https://www.sciencedirect.com/journal/process-safety-and-environmental-protection)** | **7.8** | **2** |  | | **职业安全健康协会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Vvdk5)** |
+| **[IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)** | **10.9** | **2** |  | | **电子学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r0z115)** |
+| **[Arabian Journal for Science and Engineering](https://link.springer.com/journal/13369)** | **2.9** | **4** |  | | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pB4qYD)** |
+| [Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems](https://asmedigitalcollection.asme.org/nondestructive) | **1.9** | **4** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52E1Lp)** |
+| **[IEEE Transactions on Energy Conversion](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=60)** | **5.4** | **2** |  | | **电机工程学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwPnr)** |
+| **[International Journal of System Assurance Engineering and Management](https://link.springer.com/journal/13198)** | **1.4** | **4** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7BVmD)** |
+| **[Annals of Operations Research](https://link.springer.com/journal/10479)** | **4.5** | **4** | **3** | | **优选法统筹法与经济数学研究会/管理科学与工程学会系统工程学会(B)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=W5OKE5)** |
+|  |  |  |  | | |  |  |
+|  |  |  |  | | |  |  |
+|  |  |  |  | | |  |  |
+|  |  |  |  | | |  |  |
 
 
 
