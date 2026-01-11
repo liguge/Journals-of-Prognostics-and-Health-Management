@@ -4,7 +4,7 @@
 
 **2026.01.11:**
 
-- [2024年高质量科技期刊分级目录总汇。](https://www.cast.org.cn/xw/gzdt/KJCX/art/2025/art_7affb3ed494c436b9a69aedb8604e400.html)
+- [2025年高质量科技期刊分级目录总汇。](https://www.cast.org.cn/xw/gzdt/KJCX/art/2025/art_7affb3ed494c436b9a69aedb8604e400.html)
 
 **2025.06.18：**
 
@@ -243,4 +243,5 @@
 | **[机械工程学报](https://kns.cnki.net/knavi/journals/JXXB/detail?uniplatform=NZKPT)** | **[航空学报](https://kns.cnki.net/knavi/journals/HKXB/detail?uniplatform=NZKPT)** | **[振动.测试与诊断](https://kns.cnki.net/knavi/journals/ZDCS/detail?uniplatform=NZKPT)** | **[仪器仪表学报](https://kns.cnki.net/knavi/journals/YQXB/detail?uniplatform=NZKPT)** |
 | **[太阳能学报](https://kns.cnki.net/knavi/journals/TYLX/detail?uniplatform=NZKPT)** | **[中国机械工程](https://kns.cnki.net/knavi/journals/ZGJX/detail?uniplatform=NZKPT)** | **[电力系统保护与控制](https://kns.cnki.net/knavi/journals/JDQW/detail?uniplatform=NZKPT)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/knavi/journals/HZLG/detail?uniplatform=NZKPT)** |
 | **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
+
 
