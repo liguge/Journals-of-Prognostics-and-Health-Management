@@ -201,7 +201,7 @@
 | **[Mathematical Biosciences and Engineering](https://www.aimspress.com/journal/mbe)** | **N/A** | **0$\downarrow$** |  | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=r78WWp)** |
 | **[Journal of the Taiwan Institute of Chemical Engineers](https://www.sciencedirect.com/journal/journal-of-the-taiwan-institute-of-chemical-engineers)** | **6.3** | **2$\uparrow$** | | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=p3bXVr)** |
 | **[IEEE Transactions on Transportation Electrification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)** | **8.3** | **1** |  | | **电机工程学会(T2);汽车工程学会(T2);铁道学会(T1);公路学会(T3);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rA1Q9r)** |
-| **[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/issues?punumber=6979&isnumber=9084394)** | **8.4** | **2$\downarrow$** | **1** | **N/B** | **自动化学会(A);铁道学会(T1);公路学会(T2);中国优选法统筹法与经济数学研究会(T2);图像图形学会(T2);电工技术学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DYQGRD)** |
+| **[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/issues?punumber=6979&isnumber=9084394)** | **8.4** | **2$\downarrow$** | **1** | **B/B** | **自动化学会(A);铁道学会(T1);公路学会(T2);中国优选法统筹法与经济数学研究会(T2);图像图形学会(T2);电工技术学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DYQGRD)** |
 | **[International Journal of Adaptive Control and Signal Processing](https://onlinelibrary.wiley.com/journal/10991115)** | **3.8** | **4** | | | **声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DaB8Jr)** |
 | **[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)** | **11.4** | **1** | | | **自动化学会(A+);机械工程学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pPNZBD)** |
 | **[Artificial Intelligence Review](https://link.springer.com/journal/10462)** | **13.9** | **1$\uparrow$** | **2** | **N/B** | **声学学会(T3)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=BDaQaD)** |
@@ -219,11 +219,13 @@
 | [Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems](https://asmedigitalcollection.asme.org/nondestructive) | **1.9** | **4** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52E1Lp)** |
 | **[IEEE Transactions on Energy Conversion](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=60)** | **5.4** | **2** |  | | **电机工程学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwPnr)** |
 | **[International Journal of System Assurance Engineering and Management](https://link.springer.com/journal/13198)** | **1.4** | **4** |  | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7BVmD)** |
-| **[Annals of Operations Research](https://link.springer.com/journal/10479)** | **4.5** | **4** | **3** | | **优选法统筹法与经济数学研究会/管理科学与工程学会系统工程学会(B)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=W5OKE5)** |
-|  |  |  |  | | |  |  |
-|  |  |  |  | | |  |  |
-|  |  |  |  | | |  |  |
-|  |  |  |  | | |  |  |
+| **[Annals of Operations Research](https://link.springer.com/journal/10479)** | **4.5** | **4** | **3** | | **优选法统筹法与经济数学研究会；管理科学与工程学会系统工程学会(B)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=W5OKE5)** |
+| **[Electrical Engineering](https://link.springer.com/journal/202)** | **1.9** | **4** |  | | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rz0eE5)** |
+| **[Science China Information Sciences](https://link.springer.com/journal/11432)** | **7.6** | **1** |  | | **自动化学会(A);通信学会(T1);仿真学会(T1);电子学会(T1);声学学会** | **NO** | [ablesci](https://www.ablesci.com/journal/detail?id=52ayXp) |
+|  | | | | | | | |
+|  | | | | | | | |
+|                                                              | | | | | | | |
+|  | | | | | | | |
 
 
 
@@ -243,5 +245,4 @@
 | **[机械工程学报](https://kns.cnki.net/knavi/journals/JXXB/detail?uniplatform=NZKPT)** | **[航空学报](https://kns.cnki.net/knavi/journals/HKXB/detail?uniplatform=NZKPT)** | **[振动.测试与诊断](https://kns.cnki.net/knavi/journals/ZDCS/detail?uniplatform=NZKPT)** | **[仪器仪表学报](https://kns.cnki.net/knavi/journals/YQXB/detail?uniplatform=NZKPT)** |
 | **[太阳能学报](https://kns.cnki.net/knavi/journals/TYLX/detail?uniplatform=NZKPT)** | **[中国机械工程](https://kns.cnki.net/knavi/journals/ZGJX/detail?uniplatform=NZKPT)** | **[电力系统保护与控制](https://kns.cnki.net/knavi/journals/JDQW/detail?uniplatform=NZKPT)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/knavi/journals/HZLG/detail?uniplatform=NZKPT)** |
 | **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
-
 
