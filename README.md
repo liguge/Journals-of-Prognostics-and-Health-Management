@@ -7,8 +7,7 @@
 - **更新2026[《新锐期刊分区表》](https://www.xr-scholar.com/Journals/Search)↑表示大区升级或者变为TOP期刊； ↓表示大区降级或变为非TOP期刊。**
 - **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海一起帮忙整理。**
 - **增加详细小类分区。**
-
-![image-20260326220859948](./C:/Users/11952/AppData/Roaming/Typora/typora-user-images/image-20260326220859948.png)
+<img width="1431" height="1557" alt="_20260326221818_495_1641" src="https://github.com/user-attachments/assets/ee24ea93-cde6-42d1-b0d0-2fea572eaa63" />
 
 **2026.01.11:**
 
