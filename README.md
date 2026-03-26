@@ -2,6 +2,12 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
+**2026.03.26：**
+
+- **更新2026[《新锐期刊分区表》](https://www.xr-scholar.com/Journals/Search)↑表示大区升级或者变为TOP期刊； ↓表示大区降级或变为非TOP期刊。**
+- **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海一起帮忙整理。**
+- **增加详细小类分区。**
+
 **2026.01.11:**
 
 - [2025年高质量科技期刊分级目录总汇。](https://www.cast.org.cn/xw/gzdt/KJCX/art/2025/art_7affb3ed494c436b9a69aedb8604e400.html)
