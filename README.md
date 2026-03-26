@@ -8,6 +8,8 @@
 - **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海一起帮忙整理。**
 - **增加详细小类分区。**
 
+![image-20260326220859948](./C:/Users/11952/AppData/Roaming/Typora/typora-user-images/image-20260326220859948.png)
+
 **2026.01.11:**
 
 - [2025年高质量科技期刊分级目录总汇。](https://www.cast.org.cn/xw/gzdt/KJCX/art/2025/art_7affb3ed494c436b9a69aedb8604e400.html)
@@ -178,7 +180,7 @@
 | **[Journal of Renewable and Sustainable Energy](https://aip.scitation.org/journal/rse)** | **1.9** | **4** | 绿色可持续发展技术(4);能源与燃料(4) |                  | **电机工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DZ6ROD)** |
 | **[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://dblp.uni-trier.de/db/conf/icassp/index.html)** |              | **(会议)** |  | **B/B** |                                                              |            |                                                              |
 | **[Journal of Mechanical Science and Technology](https://www.springer.com/journal/12206/)** | **1.7** | **4** | 工程：机械(4) |                  | **声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwXl2p)** |
-| **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **8.9** | **2(TOP)$\downarrow$** | 计算机：人工智能(2);计算机：硬件(1);计算机：理论方法(1);工程：电子与电气(2) | **B/A** | **自动化学会(A);图象图形学学会(T2);电子学会(T1);声学学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
+| **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** | **8.9** | **2(TOP) $\downarrow$** | 计算机：人工智能(2);计算机：硬件(1);计算机：理论方法(1);工程：电子与电气(2) | **B/A** | **自动化学会(A);图象图形学学会(T2);电子学会(T1);声学学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5967BD)** |
 | **[Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)** | **2.4** | **3** | 声学(4);工程：机械(3);力学(3) |                  | **振动工程学会(T1);铁道学会(T3);声学学会(T1);机械工程学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rvN7Er)** |
 | **[IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)** | **6.5** | **1(TOP)** | 工程：电子与电气(2) |                  | **电机工程学会(T1);铁道学会(T1);自动化学会(A);照明学会(T3);电工技术学会(T1);电子学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DMqQWD)** |
 | **[Science Progress](https://journals.sagepub.com/home/sci)** | **2.9** | **4** | 综合性期刊(4) |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Elaqp)** |
