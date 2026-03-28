@@ -4,8 +4,8 @@
 
 **2026.03.28：**
 
-- 中国科学院文献情报中心[《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
-- 新锐学术[《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
+- 中国科学院文献情报中心：[《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
+- 新锐学术：[《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
 
 **2026.03.26：**
 
