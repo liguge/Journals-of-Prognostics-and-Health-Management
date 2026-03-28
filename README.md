@@ -4,15 +4,15 @@
 
 **2026.03.28：**
 
-- [中国科学院文献情报中心《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
-- [新锐学术《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
+- 中国科学院文献情报中心[《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
+- 新锐学术[《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
 
 **2026.03.26：**
 
 - **更新2026年[《新锐期刊分区表》](https://www.xr-scholar.com/Journals/Search)↑表示大区升级或者变为TOP期刊； ↓表示大区降级或变为非TOP期刊。**
 - **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海帮忙整理归纳汇总！**
 - **增加小类详细分区。**
-<img width="1431" height="1557" alt="_20260326221818_495_1641" src="https://github.com/user-attachments/assets/ee24ea93-cde6-42d1-b0d0-2fea572eaa63" /
+![_20260326221818_495_1641](https://github.com/user-attachments/assets/ee24ea93-cde6-42d1-b0d0-2fea572eaa63)
 
 **2026.01.11:**
 
