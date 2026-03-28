@@ -2,12 +2,17 @@
 ## Journals of Intelligent Fault Diagnosis (IFD) and Remaining Useful Life (RUL)
 ### 更新说明：
 
+**2026.03.28：**
+
+- [中国科学院文献情报中心《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
+- [新锐学术《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
+
 **2026.03.26：**
 
-- **更新2026[《新锐期刊分区表》](https://www.xr-scholar.com/Journals/Search)↑表示大区升级或者变为TOP期刊； ↓表示大区降级或变为非TOP期刊。**
-- **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海鼎力支持！**
+- **更新2026年[《新锐期刊分区表》](https://www.xr-scholar.com/Journals/Search)↑表示大区升级或者变为TOP期刊； ↓表示大区降级或变为非TOP期刊。**
+- **感谢北京交通大学2024级博士生@李瑞鑫和2025级博士生@刘秋海帮忙整理归纳汇总！**
 - **增加小类详细分区。**
-<img width="1431" height="1557" alt="_20260326221818_495_1641" src="https://github.com/user-attachments/assets/ee24ea93-cde6-42d1-b0d0-2fea572eaa63" />
+<img width="1431" height="1557" alt="_20260326221818_495_1641" src="https://github.com/user-attachments/assets/ee24ea93-cde6-42d1-b0d0-2fea572eaa63" /
 
 **2026.01.11:**
 
@@ -91,7 +96,7 @@
 - 有的期刊刊发的智能故障诊断的论文比较多。**有些期刊也刊发智能故障诊断的论文，但是选择这类期刊时需要注意论文研究的对象要符合期刊范围。**
 - [ablesci](https://www.ablesci.com)中的网页包含期刊的一些基本信息，也包括LetPub 、小木虫 、SCIMAG等可以查看该期刊的网友互动，及期刊影响力的其它指标。
 - "**N**"表示没有收录到CCF或者CAAI推荐目录。
-- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;  [2024](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2024); [2025](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2025)
+- **预警期刊**： [2020](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2020) ; [2021](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2021) ; [2023](https://earlywarning.fenqubiao.com/#/zh-cn/early-warning-journal-list-2023) ;  [2024](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2024); [2025](https://ewl.fenqubiao.com/#/zh-cn/early-warning-journal-list-2025) ;  [2026](https://www.xr-scholar.com/Journals/UnderReview)
 - ❤❤❤<font color=Blue>**欢迎在`Issues`中提问讨论。欢迎`fork`, `Watch`,` star`！**</font>❤❤❤
 
 ## 英文期刊：
@@ -105,7 +110,7 @@
 | **[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** | **7.6** | **1(TOP)** | 计算机：人工智能(2) | **C/B** | **自动化学会(A);优选法统筹法与经济数学研究会(T3);电子学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rAA2jr)** |
 | **[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)** | **6.6** | **2(TOP)** | 计算机：人工智能(2);计算机：跨学科应用(2) | **N/C** |                                                              | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=yp1WdD)** |
 | **[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)** | **9.9** | **1(TOP)** | 自动化与控制系统(1);计算机：跨学科应用(1);工程：工业(1) | **C** | **铁道学会(T2);自动化学会(A+);电机工程学会(T1);图象图形学学会(T2);电工技术学会(T1);指挥与控制学会(T1);电子学会(T2);声音学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52Ad8p)** |
-| **[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)** | **8.9** | **1(TOP) $\uparrow$** | 计算机：信息系统(1);工程：电子与电气(1);电信学(1) | **C** | **通信学会(高质量);电工技术学会(T2);电子学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwxJ1p)** |
+| **[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)** | **8.9** | **1  $\uparrow$(TOP)** | 计算机：信息系统(1);工程：电子与电气(1);电信学(1) | **C** | **通信学会(高质量);电工技术学会(T2);电子学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rwxJ1p)** |
 | **[IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)** | **7.2** | **1(TOP)** | 自动化与控制系统(2);工程：电子与电气(2);仪器仪表(1) |                  | **仪器仪表学会(推荐);铁道学会(T2);自动化学会(A);铁道学会(T1);照明学会(T3);电工技术学会(T1);指挥与控制学会(T1);电子学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DXRAvp)** |
 | **[Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)** | **11.0** | **1(TOP)** | 工程：工业(1);运筹学与管理科学(1) |                  | **兵工学会(T1);职业安全健康协会(T1);自动化学会(A);优选法统筹法与经济数学研究会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5y03ap)** |
 | **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)** | **6.5** | **2(TOP)** | 计算机：人工智能(2) | **C/B** | **兵工学会(T2);自动化学会(A)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mNKeD)** |
