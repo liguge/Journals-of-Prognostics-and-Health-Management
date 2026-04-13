@@ -6,7 +6,6 @@
 
 - 中国科学院文献情报中心：[《声明》](https://las.cas.cn/news/tzgg/202603/t20260327_8178738.html)
 - 新锐学术：[《新起点，新征程，新华章》](https://mp.weixin.qq.com/s/IZxyckj-LfT_IBHQy2RAKA)
-- 新锐学术：[《新锐学术声明：以独立立场推动学术评价体系发展》](https://mp.weixin.qq.com/s/SGyzJlaVapi9Wo7Hm5CmJQ)
 
 **2026.03.26：**
 
@@ -235,7 +234,8 @@
 | **[Science China Information Sciences](https://link.springer.com/journal/11432)** | **7.6** | **1(非TOP) $\downarrow$** | 计算机：信息系统(1);工程：电子电气(1) |  | **自动化学会(A);通信学会(T1);仿真学会(T1);电子学会(T1);声学学会** | **NO** | [ablesci](https://www.ablesci.com/journal/detail?id=52ayXp) |
 | **[Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)** | **7.9** | **2(TOP)** | 工程：综合(1) | | | **YES** | [ablesci](https://www.ablesci.com/journal/detail?id=poLbR5) |
 | **[Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/index)** | | **会议** | | **A/A** | | | |
-|                                                              | | | | | | | |
+| [Cluster Computing-The Journal of Networks Software Tools and Applications](https://link.springer.com/journal/10586) | 4.1 | 3 | 计算机：信息系统(3);计算机：理论方法(3) | | | No | [ablesci](https://www.ablesci.com/journal/detail?id=DaB49r) |
+| [International Journal of Control, Automation, and Systems](https://link.springer.com/journal/12555) | 2.9 | 4 | 自动化与控制系统(3) | | | No | [ablesci](https://www.ablesci.com/journal/detail?id=DaB49r) |
 |  | | | | | | | |
 
 
