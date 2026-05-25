@@ -249,3 +249,4 @@
 | **[太阳能学报](https://kns.cnki.net/knavi/journals/TYLX/detail?uniplatform=NZKPT)** | **[中国机械工程](https://kns.cnki.net/knavi/journals/ZGJX/detail?uniplatform=NZKPT)** | **[电力系统保护与控制](https://kns.cnki.net/knavi/journals/JDQW/detail?uniplatform=NZKPT)** | **[华中科技大学学报(自然科学版)](https://kns.cnki.net/knavi/journals/HZLG/detail?uniplatform=NZKPT)** |
 | **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
 
+[![Hits](https://hits.sh/github.com/github.com/liguge/Journals-of-Prognostics-and-Health-Management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Journals-of-Prognostics-and-Health-Management/)
