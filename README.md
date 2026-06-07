@@ -236,10 +236,12 @@
 | **[Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/index)** | | **会议** | | **A/A** | | | |
 | **[Cluster Computing-The Journal of Networks Software Tools and Applications](https://link.springer.com/journal/10586)** | **4.1** | **3** | 计算机：信息系统(3);计算机：理论方法(3) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=DaB49r)** |
 | **[International Journal of Control, Automation, and Systems](https://link.springer.com/journal/12555)** | **2.9** | **4** | 自动化与控制系统(3) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=DaB49r)** |
-|  | | | | | | | |
+| **[Journal of Industrial and Management Optimization](https://www.aimsciences.org/jimo)** | **1.2** | **3** | 工程：综合(3); 运筹学与管理科学(4);数学跨学科应用(4) | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5K4VWD)** |
+| **[Physica Scripta](https://iopscience.iop.org/journal/1402-4896)** | **2.6** | **3** | 物理：综合(3) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5k9Wzr)** |
+| **[Journal of Quality in Maintenance Engineering](https://www.emeraldgrouppublishing.com/journal/jqme)** | **2.4** | **3** | 工程：工业(4) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Jv8M5)** |
 
 
-## 部分中文EI期刊：
+## 部分中文EI期刊：****
 
 |                            期刊名                            |                            期刊名                            |                            期刊名                            |                            期刊名                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
