@@ -259,3 +259,13 @@
 | **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
 
 [![Hits](https://hits.sh/github.com/github.com/liguge/Journals-of-Prognostics-and-Health-Management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Journals-of-Prognostics-and-Health-Management/)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=liguge%2FJournals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right" />
+ </picture>
+</a>
