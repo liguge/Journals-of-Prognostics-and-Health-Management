@@ -249,7 +249,7 @@
 | **[Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering)** |           **3**           |           4.4           |                能源与燃料哦(3); 工程：石油(2)                |                  |                       **石油学会(T1)**                       |   **No**   | **[ablesci](https://www.ablesci.com/journal/detail?id=rwQqB5)** |
 | [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) | **2** | 6.2 | 工程：综合(2) | |  | YES | [ablesci](https://www.ablesci.com/journal/detail?id=5QjxRD) |
 | [Electric Power Systems Research](https://www.sciencedirect.com/journal/electric-power-systems-research) | **3** | 4.3 | 工程：电子与电气(3) | | **电机工程学会(T3);铁道学会(T2);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mw8Er)** |
-| [Solar Energy](https://www.energy.gov/topics/solar-energy) | **2** |  | 能源与燃料(3) | | **电机工程学会(T2);照明学会(T2);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5VvYW5)** |
+| [Solar Energy](https://www.energy.gov/topics/solar-energy) | **2** | 7.9 | 能源与燃料(3) | | **电机工程学会(T2);照明学会(T2);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5VvYW5)** |
 | **[Computation](https://www.mdpi.com/journal/computation)** | **4** | 2.6 | 数学跨学科应用(4) | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rRqqKD)** |
 
 
