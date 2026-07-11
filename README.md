@@ -230,7 +230,7 @@
 | **[Process Safety and Environmental Protection](https://www.sciencedirect.com/journal/process-safety-and-environmental-protection)** | **2(TOP)** | 7.9 | 工程：环境(2);工程：化工(1) |  | **职业安全健康协会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Vvdk5)** |
 | **[IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)** | **1(TOP) $\uparrow$** | 9.9 | 工程：电子与电气(1);电信学(1) |  | **电子学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r0z115)** |
 | **[Arabian Journal for Science and Engineering](https://link.springer.com/journal/13369)** | **3 $\uparrow$** | 3.1 | 综合性期刊(3) |  | **兵工学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pB4qYD)** |
-| **[Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems](https://asmedigitalcollection.asme.org/nondestructive)** | **3** | 2.0 | 工程：综合(4);仪器仪表(4);材料科学：表征与测试(3)	 || | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52E1Lp)** |
+| **[Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems](https://asmedigitalcollection.asme.org/nondestructive)** | **4** | 2.0 | 工程：综合(4);仪器仪表(4);材料科学：表征与测试(3)	 || | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=52E1Lp)** |
 | **[IEEE Transactions on Energy Conversion](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=60)** | **2** | 6.1 | 能源与燃料(3);工程：电子与电气(2) |  | **电机工程学会(T1)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mwPnr)** |
 | **[International Journal of System Assurance Engineering and Management](https://link.springer.com/journal/13198)** | **4** | 1.5 | 工程：综合(4) |  |  | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=r7BVmD)** |
 | **[Annals of Operations Research](https://link.springer.com/journal/10479)** | **3 $\uparrow$** | 4.1 | 运筹学与管理科学(3) |  | **优选法统筹法与经济数学研究会；管理科学与工程学会系统工程学会(B)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=W5OKE5)** |
@@ -243,9 +243,14 @@
 | **[Journal of Industrial and Management Optimization](https://www.aimsciences.org/jimo)** | **3** | 1.4 | 工程：综合(3); 运筹学与管理科学(4);数学跨学科应用(4) | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=5K4VWD)** |
 | **[Physica Scripta](https://iopscience.iop.org/journal/1402-4896)** | **3** | 2.6 | 物理：综合(3) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5k9Wzr)** |
 | **[Journal of Quality in Maintenance Engineering](https://www.emeraldgrouppublishing.com/journal/jqme)** | **3** | 2.3 | 工程：工业(4) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5Jv8M5)** |
+|  |  |  |  | | |  |  |
 | **[IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)** | **2** | 7.0 | 工程：宇航(2); 工程：电子与电气(2); 电信学(3) | | **自动化学会(A);航空学会(T1);兵工学会(T2);电子学会(T1);声学学会(T2)** | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=p1w7jD)** |
 | **[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)** | **3** | 2.9 | 计算机：人工智能(4)；计算机：信息系统(4) | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=pBGVx5)** |
 | **[Geoenergy Science and Engineering](https://www.sciencedirect.com/journal/geoenergy-science-and-engineering)** |           **3**           |           4.4           |                能源与燃料哦(3); 工程：石油(2)                |                  |                       **石油学会(T1)**                       |   **No**   | **[ablesci](https://www.ablesci.com/journal/detail?id=rwQqB5)** |
+| [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) | **2** | 6.2 | 工程：综合(2) | |  | YES | [ablesci](https://www.ablesci.com/journal/detail?id=5QjxRD) |
+| [Electric Power Systems Research](https://www.sciencedirect.com/journal/electric-power-systems-research) | **3** | 4.3 | 工程：电子与电气(3) | | **电机工程学会(T3);铁道学会(T2);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5mw8Er)** |
+| [Solar Energy](https://www.energy.gov/topics/solar-energy) | **2** |  | 能源与燃料(3) | | **电机工程学会(T2);照明学会(T2);电工技术学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5VvYW5)** |
+| **[Computation](https://www.mdpi.com/journal/computation)** | **4** | 2.6 | 数学跨学科应用(4) | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=rRqqKD)** |
 
 
 ## 部分中文EI期刊：
@@ -259,13 +264,3 @@
 | **[控制与决策](https://kns.cnki.net/knavi/journals/KZYC/detail?uniplatform=NZKPT)** | **[振动与冲击](https://kns.cnki.net/knavi/journals/ZDCJ/detail?uniplatform=NZKPT)** | **[哈尔滨工业大学学报](https://kns.cnki.net/knavi/journals/HEBX/detail?uniplatform=NZKPT)** | **[西安交通大学学报](https://kns.cnki.net/knavi/journals/XAJT/detail?uniplatform=NZKPT)** |
 
 [![Hits](https://hits.sh/github.com/github.com/liguge/Journals-of-Prognostics-and-Health-Management.svg?label=Views&color=0891b2)](https://hits.sh/github.com/liguge/Journals-of-Prognostics-and-Health-Management/)
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=liguge%2FJournals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=liguge/Journals-of-Prognostics-and-Health-Management&type=date&legend=bottom-right" />
- </picture>
-</a>
