@@ -259,7 +259,7 @@
 | **[Big Data and Cognitive Computing](https://www.mdpi.com/2504-2289)** | **3** | **5.3** | **计算机：人工智能(3); 计算机：信息系统(3); 计算机：理论方法(2)** | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pB17Yr)** |
 | **[International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/page/ijprai/aims-scope)** | **0.9** | **4** | **计算机：人工智能(4)** | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rz0QO5)** |
 | **[Cybernetics and Intelligence](https://www.sciopen.com/journal/2995-911X)** |  |  |  | | |  |  |
-| [Complex Engineering Systems](https://www.oaepublish.com/comengsys) |  |  |  | | |  |  |
+| **[Complex Engineering Systems](https://www.oaepublish.com/comengsys)** |  |  |  | | |  |  |
 
 
 ## 部分中文EI期刊：
