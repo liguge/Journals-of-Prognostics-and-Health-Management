@@ -260,6 +260,10 @@
 | **[International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/page/ijprai/aims-scope)** | **0.9** | **4** | **计算机：人工智能(4)** | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=rz0QO5)** |
 | **[Cybernetics and Intelligence](https://www.sciopen.com/journal/2995-911X)** |  |  |  | | |  |  |
 | **[Complex Engineering Systems](https://www.oaepublish.com/comengsys)** |  |  |  | | |  |  |
+| **[Discover Artificial Intelligence](https://link.springer.com/journal/44163)** | | | | | | | |
+| **[International Journal of Green Energy](https://www.tandfonline.com/journals/ljge20)** | **3.7** | **3** | **热力学(3); 绿色可持续发展技术(4); 能源与燃料(4)** | | **电机工程学会(T3)** | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5VzVj5)** |
+| **[Journal of Failure Analysis and Prevention](https://link.springer.com/journal/11668)** | **1.8** | **4** | **工程：综合(4)** | | **有色金属学会(T2)** | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=5VzVj5)** |
+| **[ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering](https://ascelibrary.org/journal/ajrua6)** | **2.9** | **3** | **工程：土木(3)** | | **职业安全健康协会(T3)** | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=pWGwxp)** |
 
 
 ## 部分中文EI期刊：
